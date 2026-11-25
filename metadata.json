@@ -1,0 +1,6 @@
+{
+  "name": "SIM-SDM Pariwisata Wakatobi",
+  "description": "Sistem Informasi Manajemen SDM Pariwisata, Pelatihan Bidang, dan Sertifikasi Kompetensi LSP Kabupaten Wakatobi dengan sinkronisasi Google Drive / Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
